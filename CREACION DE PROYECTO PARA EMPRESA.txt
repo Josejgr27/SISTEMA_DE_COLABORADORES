@@ -1,0 +1,33 @@
+CREACION DE PROYECTO PARA EMPRESA
+
+- CREAR PROYECTO ANGULARV8
+    - En terminal
+           - no reconoce ng  por no tener node
+           - npm install (instalar node)
+           - ng -v Para ver si ya se puede utilizar correctamente
+           - ng new sistema-de-colaboradores (Creamos nuestro Proyecto Angular)
+           - 
+    - Abrimos carpeta en Visual Studio Code
+           - ng serve en la terminal de visual code para que me diga en que puerto se esta corriendo
+           - Error de [No se puede cargar el archivo C:\Users\Joseg\AppData\Roaming\npm\ng.ps1 porque la ejecución de scripts está deshabilitada en este sistema.] 
+                . se resolvio 
+                   - ejeutando en la terminal Get-ExecutionPolicy para ver si estaba restrigido
+                   - se cambio a Unrestricted pero desde la terminal de Windows PowerShell [Set-ExecutionPolicy]
+
+- CREAR PROYECTO LARAVEL
+          - instalar Laravel, Xampp y Composer ( Para gestionar dependencias)
+          - Al correr Apache aparecia error porque "Port 443 in use by" desde confing principal cambiar port en "service and port settings" cambair a "4443"
+                   - En la config de Apache en httpd-ssl.confing cambair todos los 443 -> 4443 
+          - Error al correr Mysql [Error: MySQL shutdown unexpectedly.]
+                   - Se arregla clonando la carpeta de https://www.google.com/search?q=como+instalar+php+en+windows+11&oq=como+instalar+php+en+windows+11&aqs=edge..69i57.6781j0j1&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:7eb6307d,vid:k8vgDEqeSWw
+          - Instalar Composer
+                   - ejecutar para todos, tener intalado php, ya con la ruta, te aparece.
+                   - seleccionar el ejecutable php.exe de xaamp
+                   - https://www.google.com/search?q=como+instalar+composer&oq=como+instalar+comp&aqs=edge.1.69i57j0i512l8.5366j0j1&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:dfc77495,vid:BwAv5EtJ9fs
+     - Desde C:\xampp\htdocs entrar a la terminal [cmd]
+     - mirar si tenemos composer -v
+     - composer create-project --prefer-dist laravel/laravel Colaboradores "6.*"
+           https://www.youtube.com/watch?v=Cg6pUY4-0I8
+     - Mi localhost no abre mi laravel ( pero si esta creado)
+           - en la terminal de visual studio con el folder abierto para obtener el lugar donde esta corriendo el Laravel ["php artisan serve"]
+    
