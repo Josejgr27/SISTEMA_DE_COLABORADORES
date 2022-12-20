@@ -1,6 +1,19 @@
-# Project Title
+# Sistema de Colaboradores
 
-One Paragraph of project description goes here
+Desarrolla un sistema web que realice un CRUD en el cual lleve a cabo la captura de 
+colaboradores a una empresa.
+La información capturada deberá ser almacenada en una BD MySQL. 
+Los registros deben contener:
+• Nombre completo
+• Empresa
+• Área
+• Departamento
+• Puesto
+• Fotografía (opcional)
+• Fecha de alta
+• Estatus
+El Sistema estará dividido en Front-end el cual se realizará en Angular v8 y Back-end en PHP
+con Laravel v8
 
 ## Getting Started
 
