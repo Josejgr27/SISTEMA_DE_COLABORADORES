@@ -18,9 +18,11 @@ con Laravel v8</p>
 
 ## Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+Este proyecto fue generado con [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+En la terminal corremos `ng serve` para poner en marcha el servidor. 
+
+En el navegador buscamos `http://localhost:4200/`. La aplicacion automaticamente se recarga.
 
 ## Laravel
 
