@@ -5,14 +5,14 @@ colaboradores a una empresa.
 ```
 La información capturada deberá ser almacenada en una BD MySQL. 
 Los registros deben contener:
-• Nombre completo
-• Empresa
-• Área
-• Departamento
-• Puesto
-• Fotografía (opcional)
-• Fecha de alta
-• Estatus
+- Nombre completo
+- Empresa
+- Área
+- Departamento
+- Puesto
+- Fotografía (opcional)
+- Fecha de alta
+- Estatus
 El Sistema estará dividido en Front-end el cual se realizará en Angular v8 y Back-end en PHP
 con Laravel v8
 
