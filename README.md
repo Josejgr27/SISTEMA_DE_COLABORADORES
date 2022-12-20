@@ -26,6 +26,6 @@ En el navegador buscamos `http://localhost:4200/`. La aplicacion automaticamente
 
 ## Laravel
 
-[Laravel] (SISTEMA_DE_COLABORADORES/Laravel/README.md)
-
+[Laravel] (/Laravel/README.md)
+:boy: [Laravel](/Laravel/README.md)
 
