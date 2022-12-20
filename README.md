@@ -1,7 +1,7 @@
 # Sistema de Colaboradores
 
 <p>Desarrolla un sistema web que realice un CRUD en el cual lleve a cabo la captura de 
-colaboradores a una empresa.
+colaboradores a una empresa. /n
 La información capturada deberá ser almacenada en una BD MySQL. 
 Los registros deben contener:
 - Nombre completo
@@ -11,7 +11,7 @@ Los registros deben contener:
 - Puesto
 - Fotografía (opcional)
 - Fecha de alta
-- Estatus
+- Estatus /n
 El Sistema estará dividido en Front-end el cual se realizará en Angular v8 y Back-end en PHP
 con Laravel v8</p>
 
