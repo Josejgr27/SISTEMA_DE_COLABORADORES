@@ -24,10 +24,19 @@ CREACION DE PROYECTO PARA EMPRESA
                    - ejecutar para todos, tener intalado php, ya con la ruta, te aparece.
                    - seleccionar el ejecutable php.exe de xaamp
                    - https://www.google.com/search?q=como+instalar+composer&oq=como+instalar+comp&aqs=edge.1.69i57j0i512l8.5366j0j1&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:dfc77495,vid:BwAv5EtJ9fs
-     - Desde C:\xampp\htdocs entrar a la terminal [cmd]
-     - mirar si tenemos composer -v
-     - composer create-project --prefer-dist laravel/laravel Colaboradores "6.*"
+      - Desde C:\xampp\htdocs entrar a la terminal [cmd]
+      - mirar si tenemos composer -v
+      - composer create-project --prefer-dist laravel/laravel Colaboradores "6.*"
            https://www.youtube.com/watch?v=Cg6pUY4-0I8
-     - Mi localhost no abre mi laravel ( pero si esta creado)
+      - Mi localhost no abre mi laravel ( pero si esta creado)
            - en la terminal de visual studio con el folder abierto para obtener el lugar donde esta corriendo el Laravel ["php artisan serve"]
+
+- SUBIR PROYECTO A GITHUB
+      - tener git
+      - utilizar codigos de git en la terminal
+      - Git init en la terminal si sale el error " fatal: not a git repository (or any of the parent directories): .git "
+      - Para crear carpeta Nombre carpeta/Nombre.txt 
+      - git push , git pull
+      - Angular a https://www.google.com/search?q=subir+proyecto+de+angular+a+github&oq=subir+&aqs=edge.0.69i59l2j69i57j0i67j0i67i433j0i67j0i20i263i512j0i67l2.1561j0j1&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:54da199d,vid:lM4A6SBK1uQ
+      - Laravel a Github https://www.youtube.com/watch?v=qN-ixrOuBog
     
