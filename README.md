@@ -3,7 +3,7 @@
 <p>Desarrolla un sistema web que realice un CRUD en el cual lleve a cabo la captura de 
 colaboradores a una empresa. <br>
 <br>La información capturada deberá ser almacenada en una BD MySQL. 
-Los registros deben contener: <br>
+Los registros deben contener: <br><br>
 - Nombre completo <br>
 - Empresa <br>
 - Área <br>
