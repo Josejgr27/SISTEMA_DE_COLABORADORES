@@ -26,5 +26,6 @@ En el navegador buscamos `http://localhost:4200/`. La aplicacion automaticamente
 
 ## Laravel
 
-What things you need to install the software and how to install them
+[Laravel](/Laravel/README.md)
+
 
